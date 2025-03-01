@@ -49,4 +49,10 @@ JavaScript allows users to update their name and email.
 ✅ Profile Editing - Users can change their name and email.     
 ✅ Responsive Design - Mobile-friendly layout with well-structured sections.      
 ✅ Course Navigation - Seamless transition between course listings and details.       
-✅ Animated Hover Effects - Smooth animations on course cards.      
+✅ Animated Hover Effects - Smooth animations on course cards.  
+#Output
+![Image](https://github.com/user-attachments/assets/769feeed-a7fb-49ea-9509-9a374bc63c9e)
+
+![Image](https://github.com/user-attachments/assets/a7c637b6-3347-426a-8f6d-68787ac39ba5)
+
+![Image](https://github.com/user-attachments/assets/e6e088e9-8404-452f-b5ef-31e3c912f06f)
